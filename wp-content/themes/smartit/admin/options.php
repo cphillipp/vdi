@@ -101,11 +101,11 @@ function thememakes_print_admin_notice() {
         $notices.='<div class="error"><p>To make your theme work correctly you need to set the permissions 777 for <b>' . THEMEMAKERS_THEME_PATH . '/timthumb_cache</b> folder. Follow <a href="http://webtemplatemasters.com/tutorials/permissions/" target="_blank">the link</a> to read the instructions how to do it properly.</p></div>';
     }
 
-    if (!is_writable(THEMEMAKERS_THEME_PATH . "/css/custom1.css")) {
+    if (!is_writable(THEMEMAKERS_THEME_PATH . "/css/writable/custom1.css")) {
         $notices.='<div class="error"><p>To make your theme work correctly you need to set the permissions 777 for <b>' . THEMEMAKERS_THEME_PATH . '/css/custom1.css</b> folder. Follow <a href="http://webtemplatemasters.com/tutorials/permissions/" target="_blank">the link</a> to read the instructions how to do it properly.</p></div>';
     }
 
-    if (!is_writable(THEMEMAKERS_THEME_PATH . "/css/custom2.css")) {
+    if (!is_writable(THEMEMAKERS_THEME_PATH . "/css/writable/custom2.css")) {
         $notices.='<div class="error"><p>To make your theme work correctly you need to set the permissions 777 for <b>' . THEMEMAKERS_THEME_PATH . '/css/custom2.css</b> folder. Follow <a href="http://webtemplatemasters.com/tutorials/permissions/" target="_blank">the link</a> to read the instructions how to do it properly.</p></div>';
     }
 
