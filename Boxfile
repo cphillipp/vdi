@@ -1,0 +1,10 @@
+web1: 
+  name: wp-web 
+  shared_writable_dirs:
+    - wp-content/uploads/
+  php_extensions:
+    - mysql
+    - apc
+    - gd    
+db1:
+  name: wp-db

@@ -1,0 +1,1778 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:19
+msgid ""
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1413
+msgid "3 Column Template"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "3 Columns"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1438
+msgid "4 Column Template"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "4 Columns"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1464
+msgid "6 Column Template"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "6 Columns"
+msgstr ""
+
+#. Text in echo
+#: smartit/single.php:235
+msgid "About the Author"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/custom_sidebars/add_sidebar.php:18
+#: smartit/admin/views/seo_groups/draw_groups.php:35
+#: smartit/admin/views/custom_sidebars/draw_sidebars.php:40
+#: smartit/admin/views/seo_groups/add_group.php:29
+msgid "Add Category"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/metabox.php:16
+#: smartit/admin/views/portfolio/credits_meta.php:66
+#: smartit/admin/views/page/post_pod_type_panel.php:123
+msgid "Add Field"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:169
+msgid "Add Form"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/custom_sidebars/add_sidebar.php:9
+#: smartit/admin/views/custom_sidebars/draw_sidebars.php:14
+msgid "Add Page"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1887
+msgid "Add SEO Group"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1577
+msgid "Add Sidebar"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:15
+msgid "Add Slide"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1542
+msgid "Add new Form"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:61
+msgid "Add or remove media fields."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:62
+#: smartit/admin/views/contact_form/draw_forms_templates.php:100
+#: smartit/admin/views/contact_form/draw_forms.php:89
+msgid "Additional Options"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:93
+#: smartit/admin/views/slider/sliders_groups.php:223
+msgid "Advanced options"
+msgstr ""
+
+#. Text in echo
+#: smartit/template-gallery.php:91
+msgid "All"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/recent_posts_form.php:55
+msgid "All Categories"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "Alternate"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:55
+#: smartit/admin/views/slider/sliders_groups.php:189
+msgid "Apply Slide Edition"
+msgstr ""
+
+#. Text in echo
+#: smartit/taxonomy-clients.php:14
+msgid "Archive by Clients"
+msgstr ""
+
+#. Text in echo
+#: smartit/taxonomy-skills.php:13
+msgid "Archive by Skills"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1395
+msgid "Archive page layout"
+msgstr ""
+
+#. Text in echo
+#: smartit/single.php:38
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:499
+msgid "Background color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:809
+msgid "Background colors"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:9
+msgid "Banner background color 1"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:15
+msgid "Banner background color 2"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:3
+msgid "Banner image (174x214)"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:163
+#: smartit/admin/views/theme_options.php:1257
+msgid "Blog"
+msgstr ""
+
+#. Text in echo
+#: smartit/archive.php:14
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1259
+msgid "Blog Layout"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/before_after.php:18
+msgid "Bottom Content"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/metabox.php:26
+#: smartit/admin/views/gallery/metabox.php:36
+#: smartit/admin/views/portfolio/credits_meta.php:76
+#: smartit/admin/views/portfolio/credits_meta.php:86
+#: smartit/admin/views/page/post_pod_type_panel.php:43
+#: smartit/admin/views/page/post_pod_type_panel.php:63
+#: smartit/admin/views/page/post_pod_type_panel.php:130
+#: smartit/admin/views/page/post_pod_type_panel.php:137
+msgid "Browse"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:71
+msgid "Button link"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:61
+msgid "Button text"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:66
+msgid "Button text color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:125
+#: smartit/admin/views/theme_options.php:912
+msgid "Buttons"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/entities/entity_custom_sidebars.php:190
+msgid "Calendar"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/entities/entity_custom_sidebars.php:184
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: smartit/content-alternate.php:208
+#: smartit/content-usual.php:30
+#: smartit/single.php:42
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: smartit/category.php:5
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:46
+#: smartit/admin/views/contact_form/draw_forms_templates.php:84
+#: smartit/admin/views/contact_form/draw_forms.php:73
+msgid "Choose Field Type"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:69
+#: smartit/admin/views/slider/sliders_groups.php:193
+msgid "Choose Image"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:57
+msgid "Choose audio of this post"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:78
+msgid "Choose link of this post like http://site.com/"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:98
+msgid "Choose quote of this post"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/slider.php:22
+#: smartit/admin/views/page_constructor/slider.php:51
+msgid "Choose sliders group"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:37
+msgid "Choose video of this post"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/render_gallery.php:143
+#: smartit/single-folio.php:132
+msgid "Client(s)"
+msgstr ""
+
+#. Text in echo
+#: smartit/template-gallery.php:66
+#: smartit/admin/views/slider/sliders_groups.php:135
+#: smartit/admin/views/slider/sliders_groups.php:271
+msgid "Close"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "Code"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/page_constructor/constructor.php:8
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/content-alternate.php:218
+#: smartit/content-usual.php:40
+#: smartit/comments.php:14
+#: smartit/single.php:54
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/facebook_form.php:10
+msgid "Connection"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:167
+#: smartit/admin/views/theme_options.php:1540
+msgid "Contact Forms"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:364
+msgid "Contact Information"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:124
+#: smartit/admin/views/theme_options.php:849
+msgid "Content"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/before_after.php:19
+msgid "Content in the bottom of the page with shadow divider."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/before_after.php:8
+msgid "Content on the top of the page with light gray background."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:826
+msgid "Current"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:357
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:239
+msgid "Custom Favicon"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/constructor.php:3
+msgid "Custom Page Background"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:185
+#: smartit/admin/views/theme_options.php:1575
+#: smartit/admin/views/theme_options.php:1584
+msgid "Custom Sidebars"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:498
+msgid "Custom background image"
+msgstr ""
+
+#. Text in function
+#: smartit/archive.php:8
+#: smartit/taxonomy-clients.php:8
+#: smartit/taxonomy-skills.php:7
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: smartit/single.php:34
+#: smartit/admin/views/gallery/render_gallery.php:149
+#: smartit/single-folio.php:138
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:757
+#: smartit/admin/views/theme_options.php:1928
+msgid "Default"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:580
+msgid "Default Heading Font Family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:317
+msgid "Default Sidebar position"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:468
+msgid "Default links Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:495
+msgid "Default website background"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:427
+msgid "Default website font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1553
+#: smartit/admin/views/theme_options.php:1592
+#: smartit/admin/views/theme_options.php:1900
+#: smartit/admin/options.php:184
+msgid "Delete"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:16
+msgid "Delete Group"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:33
+#: smartit/admin/views/slider/sliders_groups.php:54
+#: smartit/admin/views/slider/sliders_groups.php:176
+#: smartit/admin/views/slider/sliders_groups.php:188
+msgid "Delete Slide"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:130
+#: smartit/admin/views/slider/sliders_groups.php:267
+msgid "Description text color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1874
+#: smartit/admin/views/page/seo_options.php:30
+msgid "Description – about 150-200 characters"
+msgstr ""
+
+#. Text in echo
+#: smartit/footer.php:93
+msgid "Developed by"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1391
+msgid "Disable Portfolio Filter"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1285
+msgid "Disable blog comments"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:334
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:351
+msgid "Disable default image media settings"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:343
+msgid "Disable footer sidebars"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1527
+msgid "Disable gallery filter"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1370
+msgid "Disable portfolio comments"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1554
+#: smartit/admin/views/theme_options.php:1593
+#: smartit/admin/views/theme_options.php:1901
+#: smartit/admin/options.php:183
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:34
+#: smartit/admin/views/slider/sliders_groups.php:177
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/options.php:1
+msgid "Edit User"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1
+#: smartit/admin/views/contact_form/draw_forms_templates.php:7
+#: smartit/admin/views/contact_form/draw_forms.php:30
+msgid "Enable Captcha Protection"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1289
+msgid "Enable related posts"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:412
+msgid "Enter your full FeedBurner URL (or any other preferred feed URL) if you wish to use FeedBurner over the standard WordPress Feed"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1305
+msgid "Excerpt: symbols count"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1317
+msgid "Excerpt: symbols count alternate"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1472
+msgid "Exerpt symbols count"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+#: smartit/admin/views/theme_options.php:1507
+msgid "Extra Large"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:7
+msgid "Facebook Link"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/facebook_form.php:6
+msgid "Facebook Page ID"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:13
+msgid "Facebook Tooltip"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:402
+msgid "FeedBurner URL"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1
+#: smartit/admin/views/contact_form/draw_forms_templates.php:51
+#: smartit/admin/views/contact_form/draw_forms_templates.php:89
+#: smartit/admin/views/contact_form/draw_forms.php:78
+msgid "Field Label"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1
+msgid "Field Type"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/flickr_form.php:7
+msgid "Flickr Username"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:915
+msgid "Font Family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:929
+msgid "Font Size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:940
+msgid "Font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:866
+msgid "Font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:229
+#: smartit/admin/views/theme_options.php:1923
+msgid "Footer"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:128
+#: smartit/admin/views/theme_options.php:1092
+msgid "Footer Area"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1118
+msgid "Footer Widgets"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1094
+msgid "Footer background color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1925
+msgid "Footer text"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:20
+msgid "For example"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/contact_form_form.php:7
+msgid "Form"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1
+msgid "Form Title"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:165
+#: smartit/admin/views/theme_options.php:1493
+msgid "Gallery"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1818
+msgid "Gallery listing"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:116
+#: smartit/admin/views/theme_options.php:121
+#: smartit/admin/views/theme_options.php:135
+#: smartit/admin/views/theme_options.php:144
+#: smartit/admin/views/theme_options.php:187
+#: smartit/admin/views/theme_options.php:208
+#: smartit/admin/views/theme_options.php:1202
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:237
+msgid "General settings"
+msgstr ""
+
+#. Text in echo
+#: smartit/404.php:16
+msgid "Get me back to homepage!"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:599
+msgid "H1 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:613
+msgid "H1 heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:620
+msgid "H2 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:635
+msgid "H2 heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:642
+msgid "H3 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:657
+msgid "H3 heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:664
+msgid "H4 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:680
+msgid "H4 heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:686
+msgid "H5 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:701
+msgid "H5 heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:709
+msgid "H6 heading font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:724
+msgid "H6 heading font size"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/google_map_form.php:47
+msgid "HYBRID"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/facebook_form.php:19
+msgid "Header"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:445
+msgid "Header Text Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:296
+msgid "Header content"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:954
+msgid "Heading font size"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:122
+#: smartit/admin/views/theme_options.php:578
+msgid "Headings"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/facebook_form.php:14
+#: smartit/admin/views/widgets/google_map_form.php:13
+msgid "Height"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1380
+msgid "Hide exerpt"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1297
+msgid "Hide posts metadata"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1384
+msgid "Hide read more button"
+msgstr ""
+
+#. Text in echo
+#: smartit/header.php:252
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:792
+msgid "Hover"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:891
+msgid "Hover Link Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:97
+msgid "Html"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:256
+#: smartit/admin/views/page_constructor/constructor.php:8
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:127
+#: smartit/admin/views/theme_options.php:1084
+msgid "Images"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/extensions/tinymce/popup.php:37
+msgid "Insert Shortcode"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1483
+msgid "Items to show per page"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1855
+#: smartit/admin/views/page/seo_options.php:19
+msgid "Keywords - up to 250 characters"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+#: smartit/admin/views/theme_options.php:1507
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:18
+msgid "Latitude"
+msgstr ""
+
+#. Text in echo
+#: smartit/comments.php:85
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1185
+#: smartit/admin/views/theme_options.php:551
+msgid "Leave this field blank to use default theme styling"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:324
+#: smartit/admin/views/page_constructor/constructor.php:71
+msgid "Left Sidebar"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1155
+msgid "Link Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1174
+msgid "Link hover Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1007
+msgid "Links color active"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1024
+msgid "Links color hover"
+msgstr ""
+
+#. Text in echo
+#: smartit/template-gallery.php:68
+msgid "Loading"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:278
+msgid "Logo Text Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:266
+msgid "Logo font family"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:23
+msgid "Longitude"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:811
+msgid "Main Menu Background"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:123
+msgid "Main Navigation"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:734
+msgid "Main navigation"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:952
+msgid "Manage google fonts"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:45
+msgid "Map type"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/metabox.php:9
+#: smartit/admin/views/portfolio/credits_meta.php:59
+msgid "Media Gallery"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/entities/entity_custom_sidebars.php:196
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1866
+#: smartit/admin/views/page/seo_options.php:29
+#: smartit/admin/views/seo_groups/draw_groups.php:21
+#: smartit/admin/views/seo_groups/add_group.php:16
+msgid "Meta description"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1847
+#: smartit/admin/views/page/seo_options.php:18
+#: smartit/admin/views/seo_groups/draw_groups.php:18
+#: smartit/admin/views/seo_groups/add_group.php:13
+msgid "Meta keywords"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1829
+#: smartit/admin/views/page/seo_options.php:7
+#: smartit/admin/views/seo_groups/draw_groups.php:15
+#: smartit/admin/views/seo_groups/add_group.php:10
+msgid "Meta title"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+#: smartit/admin/views/theme_options.php:1507
+msgid "Middle"
+msgstr ""
+
+#. Text in function
+#: smartit/archive.php:10
+#: smartit/taxonomy-clients.php:10
+#: smartit/taxonomy-skills.php:9
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/facebook_form.php:22
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/entities/entity_custom_sidebars.php:1
+msgid "No categories"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/slider.php:34
+msgid "No one slider exists"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/entities/entity_custom_sidebars.php:1
+msgid "No pages"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: smartit/content-nothingfound.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/seo_groups/draw_groups.php:71
+#: smartit/admin/views/seo_groups/add_group.php:38
+msgid "Notice: One SEO group can be used only once per category. In other case it would be used for category as it was picked at first time for category."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/flickr_form.php:12
+msgid "Number of images"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/latest_tweets_form.php:12
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/options.php:185
+msgid "One moment"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1375
+msgid "Open image in lightbox (check) / Open single page"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:56
+#: smartit/admin/views/contact_form/draw_forms_templates.php:94
+#: smartit/admin/views/contact_form/draw_forms.php:83
+msgid "Options (comma separated)"
+msgstr ""
+
+#. Text in echo
+#: smartit/404.php:13
+msgid "Page Not Found"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/constructor.php:67
+msgid "Page sidebar position"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/slider.php:7
+msgid "Page slider type"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:393
+msgid "Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:514
+msgid "Pattern Background Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:497
+msgid "Patterns"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/testimonials_form.php:8
+msgid "Pause"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:21
+msgid "Phrase 1"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:26
+msgid "Phrase 1 Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:31
+msgid "Phrase 2"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:36
+msgid "Phrase 2 Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:41
+msgid "Phrase 3"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:46
+msgid "Phrase 3 Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:51
+msgid "Phrase 4"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/chat_widget_form.php:56
+msgid "Phrase 4 Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/header.php:61
+msgid "Please enter correctly"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:164
+#: smartit/admin/views/theme_options.php:1335
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1748
+msgid "Portfolio listing"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1338
+msgid "Portfolio slider width"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_projects_form.php:7
+#: smartit/admin/views/widgets/recent_posts_form.php:28
+msgid "Post Number"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_posts.php:31
+#: smartit/admin/views/widgets/recent_projects.php:36
+msgid "Posted on"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_posts_form.php:7
+msgid "Posts Category"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1679
+msgid "Posts listing/Blog page"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:19
+msgid "Project URL"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/google_map_form.php:47
+msgid "ROADMAP"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:52
+msgid "RSS Tooltip"
+msgstr ""
+
+#. Text in echo
+#: smartit/content-portfolio_6.php:44
+#: smartit/admin/views/shortcodes/columnpost.php:16
+#: smartit/content-usual.php:232
+#: smartit/content-portfolio_4.php:46
+#: smartit/content-portfolio_3.php:54
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:33
+#: smartit/admin/views/contact_form/draw_forms.php:57
+msgid "Recipient\\'s e-mail field:"
+msgstr ""
+
+#. Text in echo
+#: smartit/single.php:282
+msgid "Related Post"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:8
+msgid "Release Date"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/metabox.php:27
+#: smartit/admin/views/gallery/metabox.php:37
+#: smartit/admin/views/portfolio/credits_meta.php:77
+#: smartit/admin/views/portfolio/credits_meta.php:87
+#: smartit/admin/views/page/post_pod_type_panel.php:131
+#: smartit/admin/views/page/post_pod_type_panel.php:138
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/seo_groups/draw_groups.php:27
+#: smartit/admin/views/seo_groups/add_group.php:21
+msgid "Remove SEO Group"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/custom_sidebars/add_sidebar.php:28
+#: smartit/admin/views/custom_sidebars/draw_sidebars.php:67
+msgid "Remove Sidebar"
+msgstr ""
+
+#. Text in echo
+#: smartit/comments.php:93
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:66
+#: smartit/admin/views/contact_form/draw_forms_templates.php:104
+#: smartit/admin/views/contact_form/draw_forms.php:93
+msgid "Required Field"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/constructor.php:61
+#: smartit/comments.php:92
+msgid "Reset"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:106
+#: smartit/admin/views/theme_options.php:1938
+msgid "Reset All Options"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:569
+msgid "Reverse to default website background"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/slider.php:49
+msgid "Revolution sliders groups"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:326
+#: smartit/admin/views/page_constructor/constructor.php:73
+msgid "Right Sidebar"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/google_map_form.php:47
+msgid "SATELLITE"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:209
+#: smartit/admin/views/theme_options.php:1891
+msgid "SEO Groups"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:206
+msgid "SEO Tools"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1837
+#: smartit/admin/views/page/seo_options.php:8
+msgid "SEO title of page. Title – 50-80 characters (usually – 75)"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:107
+#: smartit/admin/views/theme_options.php:1939
+msgid "Save All Changes"
+msgstr ""
+
+#. Text in echo
+#: smartit/searchform.php:5
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: smartit/search.php:6
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_posts.php:54
+#: smartit/admin/views/widgets/recent_posts.php:56
+msgid "See all posts"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_projects.php:62
+msgid "See all projects"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/contact_form/draw_forms_templates.php:16
+#: smartit/admin/views/contact_form/draw_forms.php:40
+msgid "Select submit button"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1611
+msgid "Seo Tools"
+msgstr ""
+
+#. Text in echo
+#: smartit/header.php:63
+msgid "Server failed. Send later"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/constructor.php:32
+msgid "Set options"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:961
+msgid "Set this field 0 to use default theme styling"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/extensions/tinymce/popup.php:54
+msgid "Shortcode Preview"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_projects_form.php:41
+msgid "Show Date"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_projects_form.php:30
+#: smartit/admin/views/widgets/recent_posts_form.php:51
+msgid "Show Exerpt"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:47
+msgid "Show RSS Link"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+msgid "Show Search"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1293
+msgid "Show author info"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1301
+msgid "Show full content"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:80
+msgid "Show marker"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:93
+msgid "Show popup"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:69
+msgid "Show scrollwheel"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_posts_form.php:62
+msgid "Show see all button"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/recent_projects_form.php:19
+#: smartit/admin/views/widgets/recent_posts_form.php:40
+msgid "Show thumbnail"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:126
+#: smartit/admin/views/theme_options.php:938
+msgid "Sidebar Widgets"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:254
+msgid "Site Logo"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/render_gallery.php:155
+#: smartit/single-folio.php:144
+msgid "Skill(s)"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:83
+#: smartit/admin/views/slider/sliders_groups.php:210
+msgid "Slide Description"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:88
+#: smartit/admin/views/slider/sliders_groups.php:217
+msgid "Slide Link"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:77
+#: smartit/admin/views/slider/sliders_groups.php:203
+msgid "Slide Title"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_options.php:97
+msgid "Slider Height"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:133
+#: smartit/admin/views/theme_options.php:1201
+#: smartit/admin/views/slider/sliders_options.php:7
+msgid "Slider Settings"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1498
+msgid "Slider gallery width"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page_constructor/slider.php:19
+msgid "Slider group"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:142
+#: smartit/admin/views/theme_options.php:1228
+msgid "Sliders Groups"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1219
+msgid "Sliders Groups General"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/theme_options.php:1928
+#: smartit/admin/views/theme_options.php:1507
+msgid "Small"
+msgstr ""
+
+#. Text in echo
+#: smartit/content-nothingfound.php:11
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: smartit/404.php:15
+msgid "Sorry, the page you requested may have been moved or deleted"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:119
+msgid "Styling"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/contact_form.php:68
+#: smartit/admin/views/shortcodes/contactform.php:63
+#: smartit/admin/views/shortcodes/contactform.php:68
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_options.php:60
+msgid "Such type not exists!"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/options.php:186
+msgid "Sure?"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/google_map_form.php:47
+msgid "TERRAIN"
+msgstr ""
+
+#. Text in function
+#: smartit/tag.php:5
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: smartit/template-gallery.php:179
+#: smartit/content-alternate.php:213
+#: smartit/content-usual.php:35
+#: smartit/single.php:46
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1046
+msgid "Testimonials"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1062
+msgid "Testimonials author text color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1047
+msgid "Testimonials text color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:256
+#: smartit/admin/views/theme_options.php:970
+msgid "Text"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1137
+msgid "Text Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:754
+#: smartit/admin/views/theme_options.php:990
+msgid "Text color"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/options.php:1
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1091
+msgid "Theme Styling"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:848
+msgid "Theme styling"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:2
+#: smartit/admin/views/widgets/contact_form_form.php:2
+#: smartit/admin/views/widgets/recent_projects_form.php:2
+#: smartit/admin/views/widgets/flickr_form.php:2
+#: smartit/admin/views/widgets/latest_tweets_form.php:2
+#: smartit/admin/views/widgets/facebook_form.php:2
+#: smartit/admin/views/widgets/recent_posts_form.php:2
+#: smartit/admin/views/widgets/testimonials_form.php:3
+#: smartit/admin/views/widgets/google_map_form.php:3
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1119
+msgid "Title Color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:972
+msgid "Title color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/slider/sliders_groups.php:123
+#: smartit/admin/views/slider/sliders_groups.php:260
+msgid "Title text color"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:41
+#: smartit/admin/views/gallery/render_gallery.php:152
+#: smartit/single-folio.php:141
+msgid "Tools"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:42
+msgid "Tools used to create this portfolio."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/before_after.php:7
+msgid "Top Content"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:383
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:18
+msgid "Twitter Link"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:23
+msgid "Twitter Tooltip"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/latest_tweets_form.php:7
+msgid "Twitter Username"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:374
+msgid "Type the contact information to display it above your navigation menu in right corner, use &lt;span&gt;tag to highlight the text&lt;/span&gt;. Example:<br />
+                                    For additional information call: &lt;span&gt;+00 123456789&lt;/span&gt;"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/render_gallery.php:146
+#: smartit/single-folio.php:135
+msgid "URL"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/portfolio/credits_meta.php:30
+msgid "URL Title"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:243
+#: smartit/admin/views/theme_options.php:259
+#: smartit/admin/views/theme_options.php:537
+#: smartit/admin/views/slider/sliders_groups.php:73
+#: smartit/admin/views/slider/sliders_groups.php:198
+#: smartit/admin/views/page_constructor/constructor.php:29
+#: smartit/admin/views/slider/sliders_options.php:45
+#: smartit/admin/views/widgets/chat_widget_form.php:5
+msgid "Upload"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/page/post_pod_type_panel.php:118
+msgid "Use featured image"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:101
+msgid "View Theme Docs"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/flickr.php:19
+msgid "View more photos"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:102
+msgid "Visit Forum"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:8
+msgid "Width"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:325
+#: smartit/admin/views/page_constructor/constructor.php:72
+msgid "Without Sidebar"
+msgstr ""
+
+#. Text in function
+#: smartit/archive.php:12
+#: smartit/taxonomy-clients.php:12
+#: smartit/taxonomy-skills.php:11
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: smartit/admin/views/widgets/facebook_form.php:22
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1906
+msgid "You have not created any group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1597
+msgid "You have not created any sidebar group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1244
+msgid "You have not created any slider group yet. Please create one using the form above."
+msgstr ""
+
+#. Text in echo
+#: smartit/header.php:62
+msgid "Your message has been sent successfully!"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:29
+msgid "Youtube Link"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/social_links_form.php:34
+msgid "Youtube Tooltip"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/widgets/google_map_form.php:29
+msgid "Zoom"
+msgstr ""
+
+#. Text in function
+#: smartit/comments.php:127
+msgid "[Reply]"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/gallery/metabox.php:11
+msgid "images, video (youtube and vimeo only)."
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1961
+msgid "save"
+msgstr ""
+
+#. Text in echo
+#: smartit/admin/views/theme_options.php:1222
+#: smartit/admin/views/theme_options.php:1579
+#: smartit/admin/views/theme_options.php:1888
+msgid "type title here"
+msgstr ""
