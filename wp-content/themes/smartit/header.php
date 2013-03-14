@@ -37,8 +37,8 @@ if (isset($_GET['update_capcha'])) {
 
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
         <link rel='stylesheet' href='<?php echo bloginfo('stylesheet_url') ?>' type='text/css' media='all' />        
-        <link rel="stylesheet" href="<?php echo THEMEMAKERS_THEME_URI; ?>/css/custom1.css" type="text/css" media="all" />
-        <link rel="stylesheet" href="<?php echo THEMEMAKERS_THEME_URI; ?>/css/custom2.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="<?php echo THEMEMAKERS_THEME_URI; ?>/css/writable/custom1.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="<?php echo THEMEMAKERS_THEME_URI; ?>/css/writable/custom2.css" type="text/css" media="all" />
 
         <!-- The 1140px Grid - http://cssgrid.net/ -->
         <link rel="stylesheet" href="<?php echo THEMEMAKERS_THEME_URI; ?>/css/1140.css" type="text/css" media="all" />

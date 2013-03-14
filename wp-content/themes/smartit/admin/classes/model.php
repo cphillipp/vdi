@@ -107,10 +107,10 @@ class ThemeMakersThemeModel {
         //**** CSS REGENERATION
         $custom_css1 = ThemeMakersThemeView::draw_free_page(THEMEMAKERS_THEME_PATH . '/admin/views/custom_css1.php');
         $custom_css2 = ThemeMakersThemeView::draw_free_page(THEMEMAKERS_THEME_PATH . '/admin/views/custom_css2.php');
-        $handle = fopen(THEMEMAKERS_THEME_PATH . '/css/custom1.css', 'w');
+        $handle = fopen(THEMEMAKERS_THEME_PATH . '/css/writable/custom1.css', 'w');
         fwrite($handle, $custom_css1);
         fclose($handle);
-        $handle = fopen(THEMEMAKERS_THEME_PATH . '/css/custom2.css', 'w');
+        $handle = fopen(THEMEMAKERS_THEME_PATH . '/css/writable/custom2.css', 'w');
         fwrite($handle, $custom_css2);
         fclose($handle);
         exit;
