@@ -90,7 +90,7 @@ endif;
 
             <div class="adjective clearfix">
                 <div class="copyright"><?php echo get_option(THEMEMAKERS_THEME_PREFIX . 'copyright_text') ?></div>
-                <div class="developed"><?php _e('Developed by', THEMEMAKERS_THEME_FOLDER_NAME); ?> <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a></div>
+                <!--<div class="developed"></?php _e('Developed by', THEMEMAKERS_THEME_FOLDER_NAME); ?> <a target="_blank" href="http://webtemplatemasters.com">ThemeMakers</a></div>-->
             </div><!--/ .adjective-->
         <?php endif; ?>
     </div><!--/ .row-->
