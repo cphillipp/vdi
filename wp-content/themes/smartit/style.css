@@ -3956,13 +3956,13 @@ ul.products li.product_col {
 }
 
 /* CUSTOM */
-.navigation > div > ul > li > a 				{-webkit-border-radius: 0px 0 0 0; -moz-border-radius: 0px 0 0 0; border-radius: 0px 0 0 0;}
-#navigation 									{background: transparent;}
-.navigation > div > ul > li > a 				{border-left-color:transparent; border-right-color:transparent;}
-.navigation ul ul 								{background:#FFF;}
-.navigation ul ul a:hover						{background:rgba(0,0,0,.4);}
-.navigation ul ul li.current-menu-item 			{background:rgba(0,0,0,.4);}
-a:hover											{color:#147eff;}
+.navigation > div > ul > li > a 				{-webkit-border-radius:0 0 0 0 !important; -moz-border-radius: 0px 0 0 0 !important; border-radius: 0px 0 0 0 !important;}
+#navigation 									{background: transparent !important;}
+.navigation > div > ul > li > a 				{border-left-color:transparent !important; border-right-color:transparent !important;}
+.navigation ul ul 								{background:#FFF !important;}
+.navigation ul ul a:hover						{background:rgba(0,0,0,.4) !important;}
+.navigation ul ul li.current-menu-item 			{background:rgba(0,0,0,.4) !important;}
+a:hover											{color:#147eff !important;}
 .nivoSlider .nivo-caption:nth-child(2n-1) h3 	{float:none !important;}
-ul.social-icons li a 							{background-color:rgba(0,0,0,.4); -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; -khtml-border-radius: 3px;}
-.quoteBox 										{background-color:#4573be;}
+ul.social-icons li a 							{background-color:rgba(0,0,0,.4) !important; -moz-border-radius: 3px !important; -webkit-border-radius: 3px !important; border-radius: 3px !important; -khtml-border-radius: 3px !important;}
+.quoteBox 										{background-color:#4573be !important;}
