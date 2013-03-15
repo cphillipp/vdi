@@ -3954,3 +3954,15 @@ ul.products li.product_col {
 	margin: 0 3.8% 2.992em 0;
    
 }
+
+/* CUSTOM */
+.navigation > div > ul > li > a 				{-webkit-border-radius: 0px 0 0 0; -moz-border-radius: 0px 0 0 0; border-radius: 0px 0 0 0;}
+#navigation 									{background: transparent;}
+.navigation > div > ul > li > a 				{border-left-color:transparent; border-right-color:transparent;}
+.navigation ul ul 								{background:#FFF;}
+.navigation ul ul a:hover						{background:rgba(0,0,0,.4);}
+.navigation ul ul li.current-menu-item 			{background:rgba(0,0,0,.4);}
+a:hover											{color:#147eff;}
+.nivoSlider .nivo-caption:nth-child(2n-1) h3 	{float:none !important;}
+ul.social-icons li a 							{background-color:rgba(0,0,0,.4); -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; -khtml-border-radius: 3px;}
+.quoteBox 										{background-color:#4573be;}
