@@ -237,7 +237,7 @@ blockquote,
 .tcolor ,
 span.required
 {
-	color: #fe5214;
+	color: #9fbc24;
 } 
 
 /* Bg Color */
@@ -250,14 +250,14 @@ span.required
 .post-format,
 .form-submit #submit
 {
-	background-color: #fe5214;
+	background-color: #9fbc24;
 }
 
 /* Border Color */
 
 #gallery-items article:hover .project-meta 
 {
-	border-bottom-color: #fe5214;
+	border-bottom-color: #9fbc24;
 }
 
 /* Theme Color --> End */
@@ -702,7 +702,7 @@ h6 {line-height: 1.5em;}
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#444343', endColorstr='#3a3a3a',GradientType=0 ); /* IE6-9 */	
 	}
 	
-	.button.dark:hover {background: #fe5214;}
+	.button.dark:hover {background: #9fbc24;}
 	
 	.button.medium {
 		padding: 10px 15px 10px;
@@ -872,7 +872,7 @@ h6 {line-height: 1.5em;}
 		.contact-form .input-block:last-of-type,
 		.comments-form .input-block:last-of-type {float: none; margin: 0 0 15px 0;}
 		
-		.wrong-data {border-color: #FE5214;}
+		.wrong-data {border-color: #9fbc24;}
 		
 		.capture_image {height: 38px;}
 		
@@ -2560,10 +2560,10 @@ article.entry:last-of-type {margin-bottom: 20px;}
 						 background: #444343;
 					}
 					30% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					80% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					100% {
 						background: #444343;
@@ -2575,10 +2575,10 @@ article.entry:last-of-type {margin-bottom: 20px;}
 						 background: #444343;
 					}
 					30% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					80% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					100% {
 						background: #444343;
@@ -2590,10 +2590,10 @@ article.entry:last-of-type {margin-bottom: 20px;}
 						 background: #444343;
 					}
 					30% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					80% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					100% {
 						background: #444343;
@@ -2605,10 +2605,10 @@ article.entry:last-of-type {margin-bottom: 20px;}
 						 background: #444343;
 					}
 					30% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					80% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					100% {
 						background: #444343;
@@ -2620,10 +2620,10 @@ article.entry:last-of-type {margin-bottom: 20px;}
 						 background: #444343;
 					}
 					30% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					80% {
-						background: #fe5214;
+						background: #9fbc24;
 					}
 					100% {
 						background: #444343;
