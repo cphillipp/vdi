@@ -1203,8 +1203,9 @@ h6 {line-height: 1.5em;}
 				.navigation > div > ul > li.current-menu-ancestor > a,
 				.navigation > div > ul > li.current_page_item > a,
 				.navigation > div > ul > li.current_page_parent > a,
-				.navigation > div > ul > li.current_page_ancestor > a {background-color: rgba(0,0,0,.4);}
-			
+				/*.navigation > div > ul > li.current_page_ancestor > a {background-color: rgba(0,0,0,.4);}*/
+				.navigation > div > ul > li.current_page_ancestor > a {background-color:#4574bf;}
+				
 				.ie7 .navigation > div > ul > li:hover > a,
 				.ie7 .navigation > div > ul > li.current-menu-item > a,
 				.ie7 .navigation > div > ul > li.current-menu-parent > a,
