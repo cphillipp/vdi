@@ -3956,12 +3956,14 @@ ul.products li.product_col {
 }
 
 /* CUSTOM */
-.navigation > div > ul > li > a 				{-webkit-border-radius:0 0 0 0 !important; -moz-border-radius: 0px 0 0 0 !important; border-radius: 0px 0 0 0 !important;}
-#navigation 									{background: transparent !important;}
-.navigation > div > ul > li > a 				{border-left-color:transparent !important; border-right-color:transparent !important;}
-.navigation ul ul 								{background:#FFF !important;}
-.navigation ul ul a:hover						{background:rgba(0,0,0,.4) !important;}
-.navigation ul ul li.current-menu-item 			{background:rgba(0,0,0,.4) !important;}
-.nivoSlider .nivo-caption:nth-child(2n-1) h3 	{float:none !important;}
-ul.social-icons li a 							{background-color:rgba(0,0,0,.4) !important; -moz-border-radius: 3px !important; -webkit-border-radius: 3px !important; border-radius: 3px !important; -khtml-border-radius: 3px !important;}
-.quoteBox 										{background-color:#4573be !important;}
+.navigation > div > ul > li > a 					{-webkit-border-radius:0 0 0 0 !important; -moz-border-radius: 0px 0 0 0 !important; border-radius: 0px 0 0 0 !important;}
+#navigation 										{background: transparent !important;}
+.navigation > div > ul > li > a 					{border-left-color:transparent !important; border-right-color:transparent !important;}
+.navigation > div > ul > li.current-menu-item > a 	{background:#4574bf !important;}
+.navigation > div > ul > li > a:hover 				{background:#4574bf !important;}
+.navigation ul ul 									{background:#FFF !important;}
+.navigation ul ul a:hover							{background:#4574bf !important;}
+.navigation ul ul li.current-menu-item 				{background:#4574bf !important;}
+.nivoSlider .nivo-caption:nth-child(2n-1) h3 		{float:none !important;}
+ul.social-icons li a 								{background-color:rgba(0,0,0,.4) !important; -moz-border-radius: 3px !important; -webkit-border-radius: 3px !important; border-radius: 3px !important; -khtml-border-radius: 3px !important;}
+.quoteBox 											{background-color:#4573be !important;}
