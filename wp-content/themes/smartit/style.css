@@ -3960,7 +3960,7 @@ ul.products li.product_col {
 .navigation > div > ul > li > a 					{-webkit-border-radius:0 0 0 0 !important; -moz-border-radius: 0px 0 0 0 !important; border-radius: 0px 0 0 0 !important;}
 #navigation 										{background: transparent !important;}
 .navigation > div > ul > li > a 					{border-left-color:transparent !important; border-right-color:transparent !important;}
-.navigation > div > ul > li.current-menu-item > a 	{background:#4574bf !important;}
+.navigation > div > ul > li.current-menu-item > a 	{background:#4574bf !important; color:#9fbc24 !important;}
 .navigation > div > ul > li > a:hover 				{background:#4574bf !important;}
 .navigation > div > ul > li.current-menu-parent > a, .navigation > div > ul > li.current-menu-ancestor > a {background:#4574bf !important;}
 .navigation ul ul 									{background:#FFF !important;}
